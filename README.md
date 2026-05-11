@@ -63,13 +63,16 @@ Programming-based student database management system.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreemathi-dhanabalan&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreemathi-dhanabalan&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreemathi-dhanabalan&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=shreemathi-dhanabalan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemathi-dhanabalan&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 
 ---
