@@ -55,7 +55,6 @@ Programming-based student database management system.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Code_Blocks_Logo.png" alt="codeblocks" width="40" height="40"/>
 </p>
 
 ---
