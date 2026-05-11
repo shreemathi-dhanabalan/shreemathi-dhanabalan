@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shreemathi Dhanabalan</h1>
-<h3 align="center">ECE Student | software developer | Embedded Systems Learner</h3>
+<h3 align="center">ECE Student | software developer | Embedded Engineer</h3>
 
 ---
 
