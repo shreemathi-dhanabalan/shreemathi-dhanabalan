@@ -1,16 +1,93 @@
-## Hi there 👋
 
-<!--
-**shreemathi-dhanabalan/shreemathi-dhanabalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Shreemathi Dhanabalan</h1>
+<h3 align="center">ECE Student | software developer | Embedded Systems Learner</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🌱 Currently Learning:
+- C Programming
+- C++
+- Java
+- IoT Development
+- Embedded Systems
+
+💡 Interested In:
+- Smart Agriculture
+- AI + IoT Systems
+- Embedded Technologies
+- Smart Automation
+
+🏆 Achievements:
+- Department Rank Holder
+- Completed Multiple Learnathon Courses
+- Participated in Hackathons & Workshops
+
+📫 Reach Me At:
+- mathibalan694@gmail.com
+
+---
+
+## 🚀 Projects
+
+### ♻️ Smart Waste Management System
+IoT-based waste monitoring system for efficient garbage management.
+
+### 🚗 Drowsiness Detection System with Automated Braking & Lane Stabilization
+AI and sensor-based accident prevention system.
+
+### 📡 RFID-Based Attendance System
+Automated attendance tracking using RFID technology.
+
+### 🗂️ Student Record Management System
+Programming-based student database management system.
+
+---
+
+## 💻 Languages and Tools
+
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" alt="iot" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Code_Blocks_Logo.png" alt="codeblocks" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreemathi-dhanabalan&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreemathi-dhanabalan&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemathi-dhanabalan&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/shreemathi-dhanabalan" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
+
+
