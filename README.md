@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌱 Currently Learning:
+🌱 Languages:
 - C Programming
 - C++
 - Java
