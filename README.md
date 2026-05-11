@@ -69,9 +69,7 @@ Programming-based student database management system.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreemathi-dhanabalan&theme=tokyonight" alt="streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreemathi-dhanabalan&layout=compact&theme=tokyonight" alt="languages" />
-</p>
+
 
 ---
 
