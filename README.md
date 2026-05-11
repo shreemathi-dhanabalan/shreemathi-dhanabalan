@@ -14,9 +14,10 @@
 - Embedded Systems
 
 💡 Interested In:
-- Smart Agriculture
+- C programming
+- Software Development
 - AI + IoT Systems
-- Embedded Technologies
+- Embedded Engineering
 - Smart Automation
 
 🏆 Achievements:
@@ -76,11 +77,16 @@ Programming-based student database management system.
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/shreemathi-dhanabalan" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" />
 </a>
-</p>
 
+<a href="https://shreemathi-dhanabalan.github.io/my_portfolio/" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="30" width="30" />
+</a>
+
+</p>
 ---
 
 <p align="center">
