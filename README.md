@@ -44,7 +44,7 @@ Automated attendance tracking using RFID technology.
 ### 🗂️ Student Record Management System
 Programming-based student database management system.
 
-### - Library Management System  |  Java, Java Swing, OOP
+### 📚 Library Management System  |  Java, Java Swing, OOP
 Desktop-based library management application with a graphical user interface for managing books and issue/return operations.
 
 ### DATA ANALYTICS & POWER BI PROJECTS
