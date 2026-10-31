@@ -6,23 +6,23 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🌱 Languages:
+🌱 **Languages:**
+- Java
 - C Programming
 - C++
-- Java
 - IoT Development
 - Embedded Systems
 
-💡 Interested In:
-- C programming
+💡 **Interested In:**
+- Java programming
 - Software Development
+- Data Analytics
 - AI + IoT Systems
 - Embedded Engineering
 - Smart Automation
 
-🏆 Achievements:
+🏆 **Achievements:**
 - Department Rank Holder
-- Completed Multiple Learnathon Courses
 - Participated in Hackathons & Workshops
 
 📫 Reach Me At:
@@ -44,6 +44,26 @@ Automated attendance tracking using RFID technology.
 ### 🗂️ Student Record Management System
 Programming-based student database management system.
 
+### - Library Management System  |  Java, Java Swing, OOP
+Desktop-based library management application with a graphical user interface for managing books and issue/return operations.
+
+### DATA ANALYTICS & POWER BI PROJECTS
+
+### Amazon Prime Video Analysis Dashboard  |  Power BI
+An interactive Power BI dashboard to explore streaming content by genre, content type, country, director and release year.
+
+### HR Analysis Dashboard  |  Power BI
+A Power BI dashboard to analyze employee demographics, gender distribution, departments, job roles and workforce trends.
+
+### Student Details Dashboard  |  Power BI
+An interactive Power BI dashboard combining student records, graphical summaries and filters for exploring student information.
+
+### Student Details Dashboard  |  Power BI
+An interactive Power BI dashboard combining student records, graphical summaries and filters for exploring student information.
+
+### Student Details Dashboard  |  Power BI
+An interactive Power BI dashboard combining student records, graphical summaries and filters for exploring student information.
+
 ---
 
 ## 💻 Languages and Tools
@@ -56,6 +76,8 @@ Programming-based student database management system.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
 </p>
 
 ---
